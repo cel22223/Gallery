@@ -1,0 +1,40 @@
+boady{
+	background-color: #FFFFFF;
+color: #666666;
+	font-family: Verdana, Arial, sans-serif;
+}
+header{
+background-color: #000033;
+font-family:Georgia, serif;
+color:#FFFFFF;}
+h1 {
+	background-image: url(images/sunset.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	padding-left: 20px;
+	height: 72px;
+	margin-bottom:0;
+line-height: 200%;
+}
+h2 {
+	font-family:Georgia, serif;
+	color:#3399CC;
+}
+dt { 
+font-weight: bold;
+color:#000033;
+}
+resort class {
+	font-size:1.2em;
+	color:#000033;
+}
+label{
+	float: left;
+	width:8em;
+	padding-right: 1em;
+}
+input, textarea{
+	margin-bottom:1em;
+	display: block;
+}
+
